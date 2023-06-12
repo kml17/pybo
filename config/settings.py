@@ -40,6 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'single_pages',
+    'FPS',
+    'RPG',
+    '시뮬레이션',
+    '전략',
 ]
 
 MIDDLEWARE = [
